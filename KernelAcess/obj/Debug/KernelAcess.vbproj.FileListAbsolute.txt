@@ -1,0 +1,15 @@
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\bin\Debug\KernelAcess.exe
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\bin\Debug\KernelAcess.pdb
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\bin\Debug\KernelAcess.xml
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\Interop.ADODB.dll
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\Interop.DAO.dll
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\Interop.JRO.dll
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.vbproj.ResolveComReference.cache
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.frmBarraProgresso.resources
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.frmCadastro.resources
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.frmPrincipal.resources
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.Resources.resources
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.vbproj.GenerateResource.Cache
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.exe
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.xml
+C:\Users\rafaelsan\Documents\Projetos\KernelAcess\KernelAcess\obj\Debug\KernelAcess.pdb
